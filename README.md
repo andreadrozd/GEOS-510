@@ -1,2 +1,2 @@
-# GEOS-510
-A repo for GEOS-510
+# GEOG-510
+A repo for GEOG-510
